@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Ran Tao! 👋
 
-<!--
-**ranran-tao/ranran-tao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm transitioning into a career as a **Data Scientist** or **Quantitative Analyst**, focusing on applying statistical modeling and machine learning to real-world problems.
 
-Here are some ideas to get you started:
+## About Me
+With an academic background in Social Gerontology and Urban Planning, I care deeply about how the built environment can create livable and age-friendly cities for everyone, with a particular interest in improving mobility and quality of life for older populations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+- M.S. Urban Planning and Public Policy, Northeastern University
+- M.A. Aging Services Management, University of Southern California
+- B.A. University of California, Irvine
+
+## Skills & Tools
+**Languages:** R, SQL
+
+**Languages:** ArcGIS (spatial data visualization)
+
+**R Packages:** dplyr, ggplot2, faraway, lmtest, sandwich, clubSandwich, glmnet, caret, ranger, e1071, stargazer, RSQLite, dbplyr
+
+**Statistical & Machine Learning Models:**
+- Regression: Linear, Quadratic, Interaction, Dummy/Categorical, GLM (Binomial)
+- Machine Learning: SVM, Naive Bayes (Gaussian), Random Forest
+- Unsupervised Learning: PCA, K-Means, Hierarchical Clustering
+- Experimentation: Hypothesis Testing, A/B Testing
+- Model Evaluation:  K-Fold Cross-Validation, Confusion Matrix, Regularization (Ridge/Lasso), VIF, Robust Standard Errors
+
+## My Portfolio 
+In my portfolio, I'll be sharing projects related to these fields, while also exploring a broader range of topics through data modeling and analysis.
+
+Here are my selected projects:
+
+1. 
+2.
+3.  
