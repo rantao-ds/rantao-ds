@@ -46,8 +46,8 @@ My portfolio features applied data science projects focused on housing, mobility
 
 Here are my selected projects:
 
-1. [Rethinking the Housing–Commute Trade-Off: LA Renter Affordability Analysis](https://github.com/ranran-tao/LA-Renter-Affordability-Commute-Analysis-5Yr-ACS-2019-2024)
+1. [Rethinking the Housing–Commute Trade-Off: LA Renter Affordability Analysis](https://github.com/rantao-ds/LA-Renter-Affordability-Commute-Analysis-5Yr-ACS-2019-2024)
 
-2. [Seattle Airbnb: Short-Term and Long-Term Rental Analysis](https://github.com/ranran-tao/Seattle-Airbnb-Listings-Analysis-2021-2023)
+2. [Seattle Airbnb: Short-Term and Long-Term Rental Analysis](https://github.com/rantao-ds/Seattle-Airbnb-Listings-Analysis-2021-2023)
 
-3. [DC Bikesharing Trip Pattern Analysis](https://github.com/ranran-tao/Capital-Bikeshare-DC-Analysis-2021-2023)
+3. [DC Bikesharing Trip Pattern Analysis](https://github.com/rantao-ds/Capital-Bikeshare-DC-Analysis-2021-2023)
