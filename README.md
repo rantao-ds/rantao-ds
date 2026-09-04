@@ -28,15 +28,15 @@ With a background in Social Gerontology and Urban Planning, I’m interested in 
 dplyr, tidyr, ggplot2, faraway, lmtest, sandwich, clubSandwich, glmnet, caret, ranger, e1071, WeightedROC, stargazer, RSQLite, dbplyr
 
 **Statistical & Machine Learning Methods:**
-- **Regression:** Linear Regression, Quadratic Regression, Interaction Effects, Categorical Predictors, Binary Logistic Regression
+- **Regression:** Multiple Linear Regression, Quadratic Modeling, Interaction Terms, Dummy Variables, Logistic Regression
   
-- **Supervised Machine Learning:** SVM, Gaussian Naive Bayes, Random Forest
+- **Supervised Machine Learning:** Support Vector Machines (SVM), Gaussian Naive Bayes, Random Forest
   
-- **Unsupervised Learning & Dimensionality Reduction:** PCA, K-Means, Hierarchical Clustering
+- **Unsupervised Learning:** Principal Component Analysis (PCA), K-Means, Hierarchical Clustering
   
 - **Experimentation & Inference:** Hypothesis Testing, A/B Testing
   
-- **Model Evaluation & Diagnostics:** K-Fold Cross-Validation, Confusion Matrix, ROC/AUC, VIF, Robust Standard Errors
+- **Model Evaluation & Diagnostics:** K-Fold Cross-Validation, Confusion Matrix, ROC/AUC, Variance Inflation Factor (VIF), Robust Standard Errors
 
 - **Regularization:** Ridge, Lasso, and Elastic Net
 
