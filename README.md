@@ -1,14 +1,16 @@
 # Hi there, I'm Ran Tao! 👋
 
-I am building toward a career in **Data Science**, with a focus on applying statistical modeling, machine learning, and spatial analysis to questions related to ***housing***,  ***mobility***, ***aging***, and the ***built environment***.
+I am building toward a career in **Data Science**, with a focus on applying statistical modeling, machine learning, and spatial analysis to issues related to ***housing***,  ***mobility***, ***aging***, and the ***built environment***.
 
 ## About Me
 
 With a background in Social Gerontology and Urban Planning, I’m interested in using data to better understand urban challenges and support practical solutions. My interests include:
 
-- **Housing & Mobility:** Housing affordability and how mobility connects people to jobs while supporting neighborhood economic development.
+- **Housing Affordability & Policy:** How policy mechanisms like public-private partnerships, subsidies, and development incentives impact housing affordability and rent burden dynamics.
 
-- **Livable Communities:** How public-private collaboration can improve urban environments and quality of life, particularly for older adults. 
+- **Urban Mobility & Economic Circulation:** How regional transit networks and corridors, public and active transit, and transportation infrastructure connect neighborhoods to employment hubs and circulate economic activity across metropolitan regions.
+
+- **Livable Communities & the Built Environment:** How public-private partnerships can improve neighborhood livability by expanding housing affordability, walkability, physical accessibility, and the public realm for all ages.
 
 
 ## Education
@@ -28,17 +30,17 @@ With a background in Social Gerontology and Urban Planning, I’m interested in 
 dplyr, tidyr, ggplot2, faraway, lmtest, sandwich, clubSandwich, glmnet, caret, ranger, e1071, WeightedROC, stargazer, RSQLite, dbplyr
 
 **Statistical & Machine Learning Methods:**
-- **Regression:** Multiple Linear Regression, Quadratic Modeling, Interaction Terms, Dummy Variables, Logistic Regression
+- **Regression:** Multiple Linear Regression, Quadratic Modeling, Interaction Terms, Dummy Variables, Logistic Regression.
   
-- **Supervised Machine Learning:** Support Vector Machines (SVM), Gaussian Naive Bayes, Random Forest
+- **Supervised Machine Learning:** Support Vector Machines (SVM), Gaussian Naive , Bayes, Random Forest.
   
-- **Unsupervised Learning:** Principal Component Analysis (PCA), K-Means, Hierarchical Clustering
+- **Unsupervised Learning:** Principal Component Analysis (PCA), K-Means, Hierarchical Clustering.
   
-- **Experimentation & Inference:** Hypothesis Testing, A/B Testing
+- **Experimentation & Inference:** Hypothesis Testing, A/B Testing.
   
-- **Model Evaluation & Diagnostics:** K-Fold Cross-Validation, Confusion Matrix, ROC/AUC, Variance Inflation Factor (VIF), Robust Standard Errors
+- **Model Evaluation & Diagnostics:** K-Fold Cross-Validation, Confusion Matrix, ROC/AUC, Variance Inflation Factor (VIF), Robust Standard Errors.
 
-- **Regularization:** Ridge, Lasso, and Elastic Net
+- **Regularization:** Ridge, Lasso, and Elastic Net.
 
 ## My Portfolio 
 
