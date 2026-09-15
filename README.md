@@ -32,7 +32,7 @@ dplyr, tidyr, ggplot2, faraway, lmtest, sandwich, clubSandwich, glmnet, caret, r
 **Statistical & Machine Learning Methods:**
 - **Regression:** Multiple Linear Regression, Quadratic Modeling, Interaction Terms, Dummy Variables, Logistic Regression.
   
-- **Supervised Machine Learning:** Support Vector Machines (SVM), Gaussian Naive , Bayes, Random Forest.
+- **Supervised Machine Learning:** Support Vector Machines (SVM), Gaussian Naive Bayes, Random Forest.
   
 - **Unsupervised Learning:** Principal Component Analysis (PCA), K-Means, Hierarchical Clustering.
   
