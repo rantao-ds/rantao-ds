@@ -15,32 +15,25 @@ With a background in Social Gerontology and Urban Planning, I’m interested in 
 
 ## Education
 
-- M.S. Urban Planning and Public Policy, Northeastern University
+- M.S. Urban Planning and Policy, Northeastern University
 - M.A. Aging Services Management, University of Southern California
 - B.A. University of California, Irvine
 
 
 ## Skills & Tools
 
-**Languages:** R, SQL
+**Languages & GIS:** R, SQL, ArcGIS
 
-**GIS & Spatial Visualization:** ArcGIS 
-
-**R Packages:** 
-dplyr, tidyr, ggplot2, faraway, lmtest, sandwich, clubSandwich, glmnet, caret, ranger, e1071, WeightedROC, stargazer, RSQLite, dbplyr
+**R Packages:** `dplyr`, `tidyr`, `ggplot2`, `faraway`, `lmtest`, `sandwich`, `clubSandwich`, `glmnet`, `caret`, `ranger`, `e1071`, `WeightedROC`, `stargazer`, `RSQLite`, `dbplyr`
 
 **Statistical & Machine Learning Methods:**
-- **Regression:** Multiple Linear Regression, Quadratic Modeling, Interaction Terms, Dummy Variables, Logistic Regression.
-  
-- **Supervised Machine Learning:** Support Vector Machines (SVM), Gaussian Naive Bayes, Random Forest.
-  
-- **Unsupervised Learning:** Principal Component Analysis (PCA), K-Means, Hierarchical Clustering.
-  
-- **Experimentation & Inference:** Hypothesis Testing, A/B Testing.
-  
-- **Model Evaluation & Diagnostics:** K-Fold Cross-Validation, Confusion Matrix, ROC/AUC, Variance Inflation Factor (VIF), Robust Standard Errors.
 
-- **Regularization:** Ridge, Lasso, and Elastic Net.
+* **Regression & Regularization:** Multiple Linear & Logistic Regression, Quadratic, Interaction & Categorical Modeling, Ridge, Lasso, and Elastic Net.
+  
+* **Supervised & Unsupervised Machine Learning:** Support Vector Machines (SVM), Gaussian Naive Bayes, Random Forest, Principal Component Analysis (PCA), K-Means, Hierarchical Clustering.
+  
+* **Inference, Experimentation & Validation:** Hypothesis Testing, A/B Testing, K-Fold Cross-Validation, Classification Performance (ROC/AUC), Multicollinearity Diagnostics (Variance Inflation Factor), Heteroskedasticity Diagnostics (Robust/Clustered Standard Errors).
+
 
 ## My Portfolio 
 
@@ -48,8 +41,8 @@ My portfolio features applied data science projects focused on housing, mobility
 
 Here are my selected projects:
 
-1. [Rethinking the Housing–Commute Trade-Off: LA Renter Analysis](https://github.com/rantao-ds/LA-Renter-Housing-Commute-Analysis-2015-2024)
+1. [Rethinking the Housing–Commute Trade-Off: LA Renter Analysis (2015–2024)](https://github.com/rantao-ds/LA-Renter-Housing-Commute-Analysis-2015-2024)
 
-2. [Seattle Airbnb: Short-Term and Long-Term Rental Analysis](https://github.com/rantao-ds/Seattle-Airbnb-Listings-Analysis-2021-2023)
+2. [Seattle Airbnb: Short-Term and Long-Term Rental Analysis (2021–2023)](https://github.com/rantao-ds/Seattle-Airbnb-Listings-Analysis-2021-2023)
 
-3. [DC Bikesharing Trip Pattern Analysis](https://github.com/rantao-ds/Capital-Bikeshare-DC-Analysis-2021-2023)
+3. [Capital Bikeshare Ridership Analysis: Washington, D.C. (2021–2023)](https://github.com/rantao-ds/Capital-Bikeshare-DC-Analysis-2021-2023)
