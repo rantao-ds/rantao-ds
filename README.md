@@ -24,7 +24,7 @@ With a background in Social Gerontology and Urban Planning, I’m interested in 
 
 **Languages & GIS:** R, SQL, ArcGIS
 
-**R Packages:** `dplyr`, `tidyr`, `ggplot2`, `faraway`, `lmtest`, `sandwich`, `clubSandwich`, `glmnet`, `caret`, `ranger`, `e1071`, `WeightedROC`, `stargazer`, `RSQLite`, `dbplyr`
+**R Packages:** `dplyr`, `tidyr`, `ggplot2`, `faraway`, `lmtest`, `sandwich`, `clubSandwich`, `glmnet`, `caret`, `ranger`, `e1071`, `WeightedROC`, `stargazer`, `RSQLite`, `dbplyr`, `sf`
 
 **Statistical & Machine Learning Methods:**
 
@@ -40,9 +40,10 @@ With a background in Social Gerontology and Urban Planning, I’m interested in 
 My portfolio features applied data science projects focused on housing, mobility, and urban issues.
 
 Here are my selected projects:
+1. [Aging in Place: MA Older Adult Person–Environment Fit Analysis (2020–2024)](https://github.com/rantao-ds/MA-Aging-In-Place-Analysis-2020-2024) *(In Progress)* 
 
-1. [Rethinking the Housing–Commute Trade-Off: LA Renter Analysis (2015–2024)](https://github.com/rantao-ds/LA-Renter-Housing-Commute-Analysis-2015-2024)
+2. [Rethinking the Housing–Commute Trade-Off: LA Renter Analysis (2015–2024)](https://github.com/rantao-ds/LA-Renter-Housing-Commute-Analysis-2015-2024)
 
-2. [Seattle Airbnb: Short-Term and Long-Term Rental Analysis (2021–2023)](https://github.com/rantao-ds/Seattle-Airbnb-Listings-Analysis-2021-2023)
+3. [Seattle Airbnb: Short-Term and Long-Term Rental Analysis (2021–2023)](https://github.com/rantao-ds/Seattle-Airbnb-Listings-Analysis-2021-2023)
 
-3. [Capital Bikeshare Ridership Analysis: Washington, D.C. (2021–2023)](https://github.com/rantao-ds/Capital-Bikeshare-DC-Analysis-2021-2023)
+4. [DC Capital Bikeshare: Ridership Analysis (2021–2023)](https://github.com/rantao-ds/Capital-Bikeshare-DC-Analysis-2021-2023)
