@@ -46,4 +46,4 @@ Here are my selected projects:
 
 3. [Seattle Airbnb: Short-Term and Long-Term Rental Analysis (2021–2023)](https://github.com/rantao-ds/Seattle-Airbnb-Listings-Analysis-2021-2023)
 
-4. [DC Capital Bikeshare: Ridership Analysis (2021–2023)](https://github.com/rantao-ds/Capital-Bikeshare-DC-Analysis-2021-2023)
+4. [DC Capital Bikeshare: Ridership Analysis (2021–2023)](https://github.com/rantao-ds/DC-Capital-Bikeshare-Analysis-2021-2023)
